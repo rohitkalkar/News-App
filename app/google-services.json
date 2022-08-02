@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205235821846",
+    "project_id": "auth-3205d",
+    "storage_bucket": "auth-3205d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205235821846:android:9ed3c9183f5e2efbbdc437",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205235821846-9r9dg02aj7lgdqi7jbnqhhem1k374jti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZUsMJkI-OhcfUO35wWehyooMy8V99Bw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205235821846-9r9dg02aj7lgdqi7jbnqhhem1k374jti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
